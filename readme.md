@@ -153,13 +153,16 @@ Once the training process is done, the pre-trained model is saved in /home/EHRSQ
   | Reproduced | 94.3 | 91.6 | 91.5 | 91.5|
 
 <br>
+
 ### D. Ablation Study: Reduce training time by refactoring the training process and utilizing Google Cloud TPUs (Tensor Processing Units) to achieve multi-device and multi-process training
+
 Noted that the notebook is over 100 MB, which cannot be uploaded on Github.
 
 The following 1-10 steps and implementations of training process can be found in the following Google Colab Notebook.
 https://colab.research.google.com/drive/1V0-sBYxLKv6cRdLidiIuH_hH86nPipx6?usp=sharing
 
 <br>
+
 1.  **Apply FREE TPU Access From Google**
 
     - Apply at https://sites.research.google/trc/about/
